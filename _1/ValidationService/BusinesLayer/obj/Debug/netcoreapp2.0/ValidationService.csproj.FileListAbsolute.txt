@@ -1,0 +1,10 @@
+D:\5sem\spp\1\ValidationService\BusinesLayer\bin\Debug\netcoreapp2.0\NLog.config
+D:\5sem\spp\1\ValidationService\BusinesLayer\bin\Debug\netcoreapp2.0\ValidationService.deps.json
+D:\5sem\spp\1\ValidationService\BusinesLayer\bin\Debug\netcoreapp2.0\ValidationService.dll
+D:\5sem\spp\1\ValidationService\BusinesLayer\bin\Debug\netcoreapp2.0\ValidationService.pdb
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.csprojAssemblyReference.cache
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.csproj.CoreCompileInputs.cache
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.AssemblyInfoInputs.cache
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.AssemblyInfo.cs
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.dll
+D:\5sem\spp\1\ValidationService\BusinesLayer\obj\Debug\netcoreapp2.0\ValidationService.pdb

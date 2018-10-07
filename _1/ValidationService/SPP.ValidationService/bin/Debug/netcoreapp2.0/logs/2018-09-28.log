@@ -1,0 +1,7 @@
+2018-09-28 21:49:41.0937 | TRACE | BusinesLayer.Attributes.IntValueRangeAttribute | trace message
+2018-09-28 21:56:06.5994 | WARN | BusinesLayer.ValidationService`1 | The value of the Str2 property is required
+2018-09-28 21:56:06.6763 | WARN | BusinesLayer.ValidationService`1 | The length of the  property is more than 2
+2018-09-28 21:56:06.6763 | WARN | BusinesLayer.ValidationService`1 | The value of the Num property is not included between 1 and 10
+2018-09-28 22:00:13.3217 | WARN | BusinesLayer.ValidationService`1 | The value of the Str2 property is required
+2018-09-28 22:00:13.4211 | WARN | BusinesLayer.ValidationService`1 | The length of the  property is more than 2
+2018-09-28 22:00:13.4211 | WARN | BusinesLayer.ValidationService`1 | The value of the Num property is not included between 1 and 10

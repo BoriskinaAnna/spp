@@ -1,0 +1,9 @@
+2018-09-28 23:04:30.2479 | WARN | BusinesLayer.ValidationService`1 | The value of the Num property is not included between 1 and 10
+2018-09-28 23:04:30.5136 | WARN | BusinesLayer.ValidationService`1 | The length of the Str property is more than 2
+2018-09-28 23:04:30.5136 | WARN | BusinesLayer.ValidationService`1 | The value of the Obj property is required
+2018-09-28 23:11:12.9383 | WARN | BusinesLayer.ValidationService`1 | The value of the Num property is not included between 1 and 10
+2018-09-28 23:11:12.9927 | WARN | BusinesLayer.ValidationService`1 | The length of the Str property is more than 2
+2018-09-28 23:11:12.9958 | WARN | BusinesLayer.ValidationService`1 | The value of the Obj property is required
+2018-09-28 23:46:54.3742 | WARN | BusinesLayer.ValidationService`1 | The value of the Num property is not included between 1 and 10
+2018-09-28 23:46:54.4124 | WARN | BusinesLayer.ValidationService`1 | The length of the Str property is more than 2
+2018-09-28 23:46:54.4124 | WARN | BusinesLayer.ValidationService`1 | The value of the Obj property is required
