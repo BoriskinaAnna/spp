@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab2.observable
+namespace lab2.Contracts
 {
-    interface IObservable
+    public interface IObservable
     {
 
-        void AddObserver(IObserver observer);
-        void DeleteObserver(IObserver observer);
+        void AddObserver(IObserver<IMessage> observer);
+        void DeleteObserver(IObserver<IMessage> observer);
         void Notify(IMessage message);
 
     }

@@ -763,11 +763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\spp\\1\\ValidationService\\BusinesLayer\\ValidationService.csproj",
+      "projectUniqueName": "D:\\5sem\\spp\\_1\\ValidationService\\BusinesLayer\\ValidationService.csproj",
       "projectName": "ValidationService",
-      "projectPath": "D:\\5sem\\spp\\1\\ValidationService\\BusinesLayer\\ValidationService.csproj",
+      "projectPath": "D:\\5sem\\spp\\_1\\ValidationService\\BusinesLayer\\ValidationService.csproj",
       "packagesPath": "C:\\Users\\Боря\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\spp\\1\\ValidationService\\BusinesLayer\\obj\\",
+      "outputPath": "D:\\5sem\\spp\\_1\\ValidationService\\BusinesLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

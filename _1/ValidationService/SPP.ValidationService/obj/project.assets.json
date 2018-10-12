@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\spp\\1\\ValidationService\\SPP.ValidationService\\SPP.Validation.PresentasionLayer.csproj",
+      "projectUniqueName": "D:\\5sem\\spp\\_1\\ValidationService\\SPP.ValidationService\\SPP.Validation.PresentasionLayer.csproj",
       "projectName": "SPP.Validation.PresentasionLayer",
-      "projectPath": "D:\\5sem\\spp\\1\\ValidationService\\SPP.ValidationService\\SPP.Validation.PresentasionLayer.csproj",
+      "projectPath": "D:\\5sem\\spp\\_1\\ValidationService\\SPP.ValidationService\\SPP.Validation.PresentasionLayer.csproj",
       "packagesPath": "C:\\Users\\Боря\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\spp\\1\\ValidationService\\SPP.ValidationService\\obj\\",
+      "outputPath": "D:\\5sem\\spp\\_1\\ValidationService\\SPP.ValidationService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -803,8 +803,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\5sem\\spp\\1\\ValidationService\\BusinesLayer\\ValidationService.csproj": {
-              "projectPath": "D:\\5sem\\spp\\1\\ValidationService\\BusinesLayer\\ValidationService.csproj"
+            "D:\\5sem\\spp\\_1\\ValidationService\\BusinesLayer\\ValidationService.csproj": {
+              "projectPath": "D:\\5sem\\spp\\_1\\ValidationService\\BusinesLayer\\ValidationService.csproj"
             }
           }
         }
